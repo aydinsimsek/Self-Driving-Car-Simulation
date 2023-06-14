@@ -104,4 +104,4 @@ python drive.py
 * Track #2: https://www.youtube.com/watch?v=B_ts9OQ-NP0  
 
 # Reference Paper
-https://developer.nvidia.com/blog/deep-learning-self-driving-cars/    
+https://arxiv.org/pdf/1604.07316v1.pdf   
